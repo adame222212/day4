@@ -1,0 +1,24 @@
+span {
+  color: red;
+}
+.class-name {
+  color: aquamarine;
+}
+#id-name {
+  color: blue;
+}
+a[href] {
+  color: pink;
+}
+a[href="www.sample.com"] {
+  color: rgb(255, 0, 43);
+}
+h1,
+.parag,
+h2 {
+  color: red;
+}
+button:hover {
+  color: blueviolet;
+  cursor: pointer;
+}
